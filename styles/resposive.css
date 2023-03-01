@@ -10,10 +10,6 @@
         background-size: cover;
     }
 
-    .filme-principal .titulo{
-        display: none;
-    }
-
     .botao{
         margin-top: 5px;
         width: 300px;
